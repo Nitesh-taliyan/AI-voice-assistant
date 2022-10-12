@@ -69,7 +69,7 @@ def take_user_input():
             if hour >= 20 and hour < 6:
                 speak("Good night sir, take care!")
             else:
-                speak('Have a good day sir!')
+                speak('Have a good day guys!')
             exit()
     except Exception:
         speak('Pardon, I could not understand. Could you please say that again?')
