@@ -116,7 +116,7 @@ if __name__ == '__main__':
             play_on_youtube(video)
 
         elif 'search on google' in query:
-            speak('What do you want to search on Google, sir?')
+            speak('What do you want to search on Google')
             query = take_user_input().lower()
             search_on_google(query)
 
