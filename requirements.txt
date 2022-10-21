@@ -8,8 +8,7 @@ idna==2.10
 Pillow==8.2.0
 PyAudio @ file:///D:/Quarantine/Python/JARVIS/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
-pycodestyle==2.7.0
-PyGetWindow==0.0.9
+
 PyMsgBox==1.0.9
 pyperclip==1.8.2
 pypiwin32==223
