@@ -14,5 +14,4 @@ Send WhatsApp message
 Send Email
 Get Latest News Headlines
 Get Weather Report
-Get Trending Movies
-Get Random Jokes
+
